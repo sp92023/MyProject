@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/44463706/code-coverage-for-angular-2
+http://www.cnblogs.com/xiaxianfei/p/5600242.html
